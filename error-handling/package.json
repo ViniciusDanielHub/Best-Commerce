@@ -1,0 +1,13 @@
+{
+  "name": "@ecommerce/error-handling",
+  "version": "1.0.0",
+  "description": "Shared error handling for ecommerce microservices",
+  "private": true,
+  "dependencies": {
+    "@nestjs/common": "^10.0.0",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
